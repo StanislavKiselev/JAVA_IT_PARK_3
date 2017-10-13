@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        // Считать код символа
+	    // Считать код символа
         // например, 1041
         // вывести символ, который соответвует этому коду
         Scanner scanner = new Scanner(System.in);
